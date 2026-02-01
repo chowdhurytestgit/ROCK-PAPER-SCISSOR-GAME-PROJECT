@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+#container{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    margin: 50px auto;
+    margin-bottom: 0px;
+    justify-content: center;
+    /* background-color: brown; */
+}
+#d1{
+    width: 100px;
+    height: 100px;
+    color: bisque;
+    font-size: 5vmin;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 100%;
+    background-color: aqua;
+}
+
+#d2{
+    width: 100px;
+    height: 100px;
+    color: bisque;
+    font-size: 5vmin;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 100%;
+    background-color: aqua;
+}
+
+#d3{
+    width: 100px;
+    height: 100px;
+    color: bisque;
+    font-size: 5vmin;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 100%;
+    background-color: aqua;
+}
+
+.hello{
+    border: 3px solid black;
+    border-radius: 50%;
+
+}
+#im1{
+    width: 100px;
+    height: 100px;
+   
+}
+#im2{
+    width: 100px;
+    height: 100px;
+
+}
+#im3{
+    width: 100px;
+    height: 100px;
+    
+}
+
+#paradiv{
+    width: 100%;
+    height:auto;
+    background-color: blue;
+    color: white;
+    text-align: center;
+     font-size: 30px;
+}
+#score{
+    width: 30%;
+    height: auto;
+    /* background-color: aquamarine; */
+    display: flex;
+    margin: 100px 130px 10px 480px;
+    justify-content: center;
+    column-gap: 20vmin;
+    flex-wrap: wrap;
+    
+}
+#scoreme{
+    width: auto;
+    height: auto;
+    /* background-color: cadetblue; */
+    font-size: 30px;
+
+}
+#scorecom{
+    width: auto;
+    height: auto;
+    /* background-color: rgb(13, 231, 122); */
+    font-size: 30px;
+}
+#name{
+
+    width: 30%;
+    height: auto;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    column-gap: 15vmin;
+    margin-left: 490px;
+    
+    
+}
+#bt{
+    margin: 70px 150px 0px 620px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+#d4{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px 0px 100px 520px;
+    column-gap: 16vmin;
+    font-size: 20px;
+    color: blue;
+}
+#rst{
+    text-align: center;
+    font-size: 30px;
+    background-color: brown;
+    color: white;
+    margin: 0px 0px 15px 1100px;
+    border-radius: 18%;
+}
